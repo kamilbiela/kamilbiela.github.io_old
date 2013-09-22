@@ -1,2 +1,0 @@
-kamilbiela.github.io
-====================
