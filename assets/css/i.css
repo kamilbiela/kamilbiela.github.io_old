@@ -750,6 +750,11 @@ header.site-header nav ul li a:hover {
   -webkit-border-radius: 4px;
   border-radius: 4px;
 }
+
+.post p.img-auto img {
+    width: auto;
+}
+
 .post ul {
   display: block;
   margin-bottom: 33px;
