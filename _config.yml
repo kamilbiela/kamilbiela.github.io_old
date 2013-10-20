@@ -19,8 +19,6 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Home
-    url: /
   - title: Github
     url: https://github.com/kamilbiela
     external: true
