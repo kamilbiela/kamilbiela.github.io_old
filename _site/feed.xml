@@ -1,34 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Your New Jekyll Site</title>
-    <description>Blogging about stuffs</description>
-    <link>http://your-blog-url.example.com</link>
-    <atom:link href="http://your-blog-url.example.com/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Kamil Biela</title>
+    <description>Coding blog</description>
+    <link>http://kamilbiela.github.io</link>
+    <atom:link href="http://kamilbiela.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>Remote debugging PHP with Phpstorm</title>
         
         
-          <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+          <description>&lt;p&gt;I&amp;#39;m primary using it for debugging code on &amp;quot;remote&amp;quot; vagrant machines.&lt;/p&gt;
 </description>
         
-        <pubDate>Sun, 04 Oct 2015 16:05:03 +0200</pubDate>
-        <link>http://your-blog-url.example.com/2015/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/welcome-to-jekyll/</guid>
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        
-        
-          <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-</description>
-        
-        <pubDate>Sun, 10 Nov 2013 11:18:00 +0100</pubDate>
-        <link>http://your-blog-url.example.com/2013/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2013/welcome-to-jekyll/</guid>
+        <pubDate>Sun, 22 Sep 2013 00:00:00 +0200</pubDate>
+        <link>http://kamilbiela.github.io/2013/php-remote-debugging-with-phpstorm/</link>
+        <guid isPermaLink="true">http://kamilbiela.github.io/2013/php-remote-debugging-with-phpstorm/</guid>
       </item>
     
   </channel>
