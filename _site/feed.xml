@@ -7,6 +7,18 @@
     <atom:link href="http://kamilbiela.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Ember.js acceptance tests - how to reset db in beforeEach?</title>
+        
+        
+          <description>&lt;p&gt;Recently I have started working with Ember.js (2.1) and encountered problem with acceptance testing framework. My problem was, how to reset database before each test run?&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 05 Oct 2015 00:00:00 +0200</pubDate>
+        <link>http://kamilbiela.github.io/2015/ember-acceptance-tests/</link>
+        <guid isPermaLink="true">http://kamilbiela.github.io/2015/ember-acceptance-tests/</guid>
+      </item>
+    
+      <item>
         <title>Remote debugging PHP with Phpstorm</title>
         
         
