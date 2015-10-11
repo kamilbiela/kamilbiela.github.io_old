@@ -7,6 +7,18 @@
     <atom:link href="http://kamilbiela.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Using npm scripts in Your development workflow</title>
+        
+        
+          <description>&lt;p&gt;While developing node / javascript application, You usually use build tools like grunt or gulp. Those are endlessly useful, but what when You often run complicated commands like:&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 10 Oct 2015 00:00:00 +0200</pubDate>
+        <link>http://kamilbiela.github.io/2015/npm-scripts/</link>
+        <guid isPermaLink="true">http://kamilbiela.github.io/2015/npm-scripts/</guid>
+      </item>
+    
+      <item>
         <title>Ember.js acceptance tests - how to reset db in beforeEach?</title>
         
         
